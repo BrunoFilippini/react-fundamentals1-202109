@@ -1,0 +1,11 @@
+.card {
+    border: 2px solid black;
+    display: flex;
+    width: 20VW;
+    padding: 0.4rem 0.4rem 0.2rem 0.4rem ;
+}
+
+.card span {
+    font-weight: bold;
+}
+
